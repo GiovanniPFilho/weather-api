@@ -44,7 +44,7 @@ OPENWEATHER_API_KEY - You can get your API key for free at: https://openweatherm
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/weather-api.git
+git clone git@github.com:GiovanniPFilho/weather-api.git
 
 cd weather-api
 
