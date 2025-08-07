@@ -1,0 +1,21 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "To see the weather in all cities",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Giovanni P Filho",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
