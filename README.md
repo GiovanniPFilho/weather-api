@@ -20,7 +20,7 @@ A simple REST API built with Node.js and Express to fetch current weather data f
 
 ## 🛠️ Technologies Used
 
-- [Node.js](https://nodejs.org/en/) (v18+ recommended, v24 supported)
+- [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [Axios](https://axios-http.com/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
